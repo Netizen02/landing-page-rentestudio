@@ -1,38 +1,31 @@
 {
-  "name": "landing-page-rentestudio",
-  "version": "0.1.0",
-  "private": true,
-  "dependencies": {
-    "@testing-library/jest-dom": "^5.17.0",
-    "@testing-library/react": "^13.4.0",
-    "@testing-library/user-event": "^13.5.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
+  "name": "cra-template-adrinlol",
+  "version": "1.4.0",
+  "keywords": [
+    "react-template",
+    "landy-template",
+    "cra-template",
+    "react-boilerplate",
+    "landing-page-template",
+    "react-free-template",
+    "react-landing-page-template",
+    "react-typescript-template"
+  ],
+  "main": "template.json",
+  "description": "Landy is a free React landing page template designed for developers and startups.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Adrinlol/create-react-app-adrinlol.git"
   },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
   },
-  "eslintConfig": {
-    "extends": [
-      "react-app",
-      "react-app/jest"
-    ]
+  "bugs": {
+    "url": "https://github.com/facebook/create-react-app/issues"
   },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
-  }
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
