@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Access to Unique Studios",
+  "text": "Unleash your creativity in spaces that are as unique as your ideas. From modern lofts to rustic warehouses, we've got the perfect studio waiting for you.",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Flexible Rentals, Limitless Possibilities",
+      "content": "Whether you need a studio for a few hours or a few weeks, Rentestudio offers flexible rental options to match your project's timeline. The possibilities are endless.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Book with Confidence",
+      "content": "Trust and safety are our priorities. Our vetted studio partners ensure that every booking is secure and every studio is ready for your creative magic.",
       "icon": "notes.svg"
     }
   ]
