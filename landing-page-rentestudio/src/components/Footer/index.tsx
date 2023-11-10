@@ -144,18 +144,18 @@ const Footer = ({ t }: any) => {
               </LogoContainer>
             </NavLink>
             <FooterContainer>
-              <SocialLink
-                href="https://github.com/Adrinlol/create-react-app-adrinlol"
+              {/* <SocialLink
+                href="https://github.com/"
                 src="github.svg"
               />
               <SocialLink
-                href="https://twitter.com/Adrinlolx"
+                href="https://twitter.com/"
                 src="twitter.svg"
               />
               <SocialLink
-                href="https://www.linkedin.com/in/nirav-gujarathi/"
+                href="https://www.linkedin.com/"
                 src="linkedin.svg"
-              />
+              /> */}
               
             </FooterContainer>
           </Row>
